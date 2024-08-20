@@ -51,7 +51,10 @@
     text-align: left;
 }
 
-
+.irrigacao-imagem{
+    width: 350px;
+    text-align: right;
+}
 
 .estudante-icone{
     width: 24px;
